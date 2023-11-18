@@ -26,8 +26,8 @@ module.exports = {
       name: '@electron-forge/plugin-auto-unpack-natives',
       config: {
         repository: {
-          owner: 'github-user-name',
-          name: 'github-repo-name'
+          owner: 'minh-dai',
+          name: 'electron-test'
         },
         prerelease: false,
         draft: true
